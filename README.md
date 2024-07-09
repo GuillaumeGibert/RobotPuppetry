@@ -60,6 +60,14 @@ Install the dev library
   sudo usermod -aG dialout <your_account_id>
  ```
  
+   * Dlib
+  
+ Download the Dlib library
+ ```sh
+ git clone https://github.com/davisking/dlib.git
+ ```
+ or
+here [dlib](http://dlib.net/files/dlib-19.24.zip)
 
 ### Installation
 
