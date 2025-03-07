@@ -69,6 +69,13 @@ Install the dev library
  or
 here [dlib](http://dlib.net/files/dlib-19.24.zip)
 
+   * X11
+  
+ Download the X11 dev library
+ ```sh
+ sudo apt install libX11-dev
+ ```
+ 
 ### Installation
 
 1. Clone the repo
